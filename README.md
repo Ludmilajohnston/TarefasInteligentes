@@ -1,2 +1,2 @@
 # todo-list
-Aplicativo To-do List em formato PWA.
+Aplicativo To-do List.
