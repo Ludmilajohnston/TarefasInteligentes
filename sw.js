@@ -1,4 +1,4 @@
-const CACHE_NAME = 'todo-pwa-v1';
+const CACHE_NAME = 'tarefas-inteligentes-v1';
 
 const urlsToCache = [
   '/',
